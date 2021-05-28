@@ -2,8 +2,8 @@
 
 int main(int argc, char const *argv[]){
 	srand(time(NULL));
-	//int n = Max;
-	int n = 0;
+
+	int n = Max;
 	printf("Digite o valor de n; ");
 	scanf("%i",&n);
 	

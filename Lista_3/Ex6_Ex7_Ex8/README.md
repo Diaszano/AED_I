@@ -1,4 +1,4 @@
-# Exercício 6
+# Exercício [6,7,8]
 Trecho 1
 ~~~C
 main(){ 
