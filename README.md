@@ -13,11 +13,6 @@ Aqui eu vou por todas as listas de AED 1 com as minhas resoluções durante o se
 - [ ] [Lista 8](https://github.com/Diaszano/AED_I/tree/master/Lista_8)
 - [x] [Lista 9](https://github.com/Diaszano/AED_I/tree/master/Lista_9)
 - [x] [Lista 10](https://github.com/Diaszano/AED_I/tree/master/Lista_10)
-- [ ] [Lista 11](https://github.com/Diaszano/AED_I/tree/master/Lista_11)
-- [ ] [Lista 12](https://github.com/Diaszano/AED_I/tree/master/Lista_12)
-- [ ] [Lista 13](https://github.com/Diaszano/AED_I/tree/master/Lista_13)
-- [ ] [Lista 14](https://github.com/Diaszano/AED_I/tree/master/Lista_14)
-- [ ] [Lista 15](https://github.com/Diaszano/AED_I/tree/master/Lista_15)
 
 ## ⚒️ Ferramentas:
 
